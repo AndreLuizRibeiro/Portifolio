@@ -92,7 +92,7 @@ Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de P
 ### Solução
 > Descrever aqui as soluções propostas no projeto.
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/1%C2%B0%20Sem/imagem/alinhar.png" width= "100%">
+    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/1%C2%B0%20Sem/imagem/alinhamento.png" width= "100%">
 </p>
 
 ### Resultados
