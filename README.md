@@ -11,7 +11,8 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
     - [3º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-3) 
     - [4º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-4) 
     - [5º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-5) 
-    - [6º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-6) 
+    - [6º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-6)
+    - [Trabalho de Gradução - "Projeto escolhido"]() 
 
 ---
     
@@ -371,4 +372,3 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 </details>
 
 [Voltar ao Inicio](#sumário)
-
